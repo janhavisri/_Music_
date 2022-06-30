@@ -18,29 +18,8 @@ Built during Second Construct Week held after completition of Unit 3 in Masai. A
 5) Library Feature
 6) Music Player
 
-## Contributions:-
-### [Kundan Chaudhary](https://github.com/kundan9724) - [LinkedIn]()
--> Authentication
- <br/>-> Explore Page
- <br/>-> Related songs page
 
-### [Raja Choudhary](https://github.com/rajachoudhary) - [LinkedIn]()
--> Upgrade
- <br/>-> Top 100 Charts Page
- <br/>-> Trending Section
-
-
-### [Ravi Shukla](https://github.com/Rshukla12) - [LinkedIn](https://www.linkedin.com/in/ravi-shukla-94036693/)
--> Search <br/>
--> Music Player <br/>
--> Library
-
-## Deploy Locally
-
-### Required 
--> Node
-
-### Steps to deploy
+Steps to deploy
 ```
   git clone https://github.com/rajachoudhary/Youtube_Music // Clone This Repo
   cd Youtube_Music                                         // Move to the repo
